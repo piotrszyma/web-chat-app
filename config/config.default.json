@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 4000
+  },
+  "api": {
+    "port": 4000,
+    "baseUrl": "http://10.8.0.18.xip.io:4000/"
+  }
+}

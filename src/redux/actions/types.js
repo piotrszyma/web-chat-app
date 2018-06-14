@@ -1,0 +1,27 @@
+export const AUTH_LOGIN = 'AUTH_LOGIN';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const AUTH_CHANGE_SETTINGS = 'AUTH_CHANGE_SETTINGS';
+export const AUTH_BLOCK = 'AUTH_BLOCK';
+export const AUTH_UNBLOCK = 'AUTH_UNBLOCK';
+
+export const CONV_INIT = 'CONV_INIT';
+export const CONV_ADD = 'CONV_ADD';
+export const CONV_MODIFY = 'CONV_MODIFY';
+export const CONV_DELETE = 'CONV_DELETE';
+export const CONV_ADD_USER = 'CONV_ADD_USER';
+export const CONV_REMOVE_USER = 'CONV_REMOVE_USER';
+export const CONV_ADD_HISTORY = 'CONV_ADD_HISTORY';
+export const CONV_ADD_MESSAGE = 'CONV_ADD_MESSAGE';
+export const CONV_DEL_MESSAGE = 'CONV_DEL_MESSAGE';
+export const CONV_CHANGE_MESSAGE = 'CONV_CHANGE_MESSAGE';
+export const CONV_ADD_READ_BY = 'CONV_READ_BY';
+export const CONV_DELETE_ALL = 'CONV_REMOVE_ALL';
+
+export const USER_ADD = 'USER_ADD';
+export const USER_DELETE = 'USER_DELETE';
+export const USER_CHANGE_DETAILS = 'USER_CHANGE_DETAILS';
+export const USER_DELETE_ALL = 'USER_DELETE_ALL';
+export const USER_CHANGE_AVAILABILITY = 'USER_CHANGE_AVAILABILITY';
+
+export const ALERT_OPEN = 'ALERT_OPEN';
+export const ALERT_CLOSE = 'ALERT_CLOSE';

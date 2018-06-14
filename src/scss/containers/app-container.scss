@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&subset=latin-ext');
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+
+$appContainer: 'app-container';
+
+.#{$appContainer} {
+  height: 100vh;
+  width: 100vw;
+}

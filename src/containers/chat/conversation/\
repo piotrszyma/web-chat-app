@@ -1,0 +1,49 @@
+../
+chat-app/
+| config/
+| src/
+| | common/
+| | containers/
+| | | chat/
+| | | | addconversation/
+| | | | alert/
+| | | | conversation/
+| | | | | ChatConversation.js
+| | | | | ChatConversationContent.js
+| | | | | ChatConversationInput.js
+| | | | | ChatConversationPanel.js
+| | | | | ChatConversationPanelSettings.js
+| | | | | ChatConversationPanelSettingsList.js
+| | | | | Message.js
+| | | | list/
+| | | | menu/
+| | | | settings/
+| | | | Chat.js
+| | | login/
+| | | App.js
+| | fonts/
+| | redux/
+| | scss/
+| | services/
+| | | auth/
+| | | common/
+| | | data/
+| | | parser/
+| | | socket/
+| | utils/
+| | Bootstrap.js
+| | Root.js
+| | index.html
+| test/
+| utils/
+| .babelrc
+| .esdoc.json
+| .eslintrc.json
+| .gitignore
+| .travis.yml
+| LICENSE
+| LICENSE.txt
+| README.md
+| package.json
+| server.js
+| webpack.config.js

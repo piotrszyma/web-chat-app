@@ -1,0 +1,17 @@
+@import 'common/variables';
+@import 'common/fonts';
+
+// Common Style Files
+
+@import 'common/common.scss';
+@import 'common/mixins';
+
+// Containers Style Files
+
+@import 'containers/app-container';
+@import 'containers/chat-container';
+@import 'containers/login-container';
+
+// Components Style Files
+
+
